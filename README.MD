@@ -9,6 +9,9 @@ DONE
 Integrate Windows API through winapi Crate:
 Add winapi crate to your Cargo.toml for accessing Windows-specific APIs.
 This crate provides bindings to Windows API, which is essential for interacting with audio devices and Bluetooth status.
+DONE
+
+
 
 Detect Headset Connection:
 Implement a function to check the connection status of the JBL Quantum headset.
