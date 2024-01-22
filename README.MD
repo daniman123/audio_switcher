@@ -9,7 +9,8 @@ DONE
 Integrate Windows API through winapi Crate:
 Add winapi crate to your Cargo.toml for accessing Windows-specific APIs.
 This crate provides bindings to Windows API, which is essential for interacting with audio devices and Bluetooth status.
-DONE
+DONE 
+CHANGES - cpal = "0.15.2", IS USED INSTEAD OF winapi.
 
 
 
